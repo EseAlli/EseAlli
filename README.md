@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React and Node**
 
-- 📫 How to reach me **eseoghenealli@gmail.com**
+- 📫 How to reach me **eseoghenealli@gmail.com** or **essealli.ea@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing](https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing)
 
