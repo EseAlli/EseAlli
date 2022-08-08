@@ -4,12 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esealli" alt="esealli" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/eseoghenealli" target="blank"><img src="https://img.shields.io/twitter/follow/eseoghenealli?logo=twitter&style=for-the-badge" alt="eseoghenealli" /></a> </p>
+I'm a software engineer that is passionate about giving users the greatest experience possible in whatever way I can. I also obsess over problem solving since it makes me feel incredibly fulfilled when I can write a lot of code to solve an issue. I enjoy a challenge, and I look forward to learning new things.
 
-- 💬 Ask me about **React and Node**
+React and Node are two of my favorite technologies to work with, and I'm fascinated about database engineering and would want to do some work in that area.
 
-- 📫 How to reach me **eseoghenealli@gmail.com** or **essealli.ea@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing](https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing)
+If you'd want to share your expertise and resources with me, get in touch with me.
 
 
 <h3 align="left">Connect with me:</h3>
