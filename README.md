@@ -5,16 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/eseoghenealli" target="blank"><img src="https://img.shields.io/twitter/follow/eseoghenealli?logo=twitter&style=for-the-badge" alt="eseoghenealli" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
-- Also building my <a href='https://ese-dev.herokuapp.com/' target='blank'> portfolio </a> 
-
 - 💬 Ask me about **React and Node**
 
 - 📫 How to reach me **eseoghenealli@gmail.com** or **essealli.ea@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing](https://docs.google.com/document/d/1--8P-CDPkGzvcfa3vxnum9hCEZwkSrASdzmGRlWoP18/edit?usp=sharing)
 
-- ⚡ Fun fact **I had a pet rabbit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
