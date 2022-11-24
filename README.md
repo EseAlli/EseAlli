@@ -2,7 +2,7 @@
 
 I'm a software engineer that is passionate about giving users the greatest experience possible in whatever way I can. I also obsess over problem solving since it makes me feel incredibly fulfilled when I can write a lot of code to solve an issue. I enjoy a challenge, and I look forward to learning new things.
 
-React and Node are two of my favorite technologies to work with, and I'm fascinated about database engineering and would want to do some work in that area.
+React and Node are two of my favorite technologies to work with, and I'm fascinated about new technologies
 
 If you'd want to share your expertise and resources with me, get in touch with me.
 
